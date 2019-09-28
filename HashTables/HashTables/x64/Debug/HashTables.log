@@ -1,0 +1,3 @@
+﻿  HashTables.cpp
+e:\users\victor\source\repos\hashtables\hashtables\hashtables.cpp(193): warning C4305: 'initializing': truncation from 'double' to 'float'
+  HashTables.vcxproj -> e:\Users\Victor\source\repos\HashTables\x64\Debug\HashTables.exe

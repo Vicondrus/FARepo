@@ -1,0 +1,8 @@
+﻿  HashTables.cpp
+e:\users\victor\source\repos\hashtables\hashtables\hashtables.cpp(196): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Generating code
+  2 of 306 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  HashTables.vcxproj -> e:\Users\Victor\source\repos\HashTables\x64\Release\HashTables.exe

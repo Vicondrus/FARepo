@@ -1,0 +1,8 @@
+﻿  HeapNQuickSorts.cpp
+e:\users\victor\source\repos\heapnquicksorts\heapnquicksorts\heapnquicksorts.cpp(180): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  1 of 307 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  HeapNQuickSorts.vcxproj -> E:\Users\Victor\source\repos\HeapNQuickSorts\Release\HeapNQuickSorts.exe

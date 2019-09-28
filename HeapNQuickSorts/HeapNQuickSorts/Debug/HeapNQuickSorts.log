@@ -1,0 +1,5 @@
+﻿  HeapNQuickSorts.cpp
+e:\users\victor\source\repos\heapnquicksorts\heapnquicksorts\heapnquicksorts.cpp(188): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\users\victor\source\repos\heapnquicksorts\heapnquicksorts\heapnquicksorts.cpp(111): warning C4715: 'crippledPartition': not all control paths return a value
+e:\users\victor\source\repos\heapnquicksorts\heapnquicksorts\heapnquicksorts.cpp(164): warning C4715: 'partitionForBest': not all control paths return a value
+  HeapNQuickSorts.vcxproj -> e:\Users\Victor\source\repos\HeapNQuickSorts\Debug\HeapNQuickSorts.exe

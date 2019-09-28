@@ -1,0 +1,3 @@
+﻿  ConsoleApplication1.cpp
+e:\users\victor\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(188): warning C4778: 'printf' : unterminated format string '%'
+  ConsoleApplication1.vcxproj -> e:\users\victor\source\repos\ConsoleApplication1\Debug\ConsoleApplication1.exe

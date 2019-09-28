@@ -1,0 +1,4 @@
+﻿  HashTables.cpp
+e:\users\victor\source\repos\hashtables\hashtables\hashtables.cpp(142): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\users\victor\source\repos\hashtables\hashtables\hashtables.cpp(97): warning C4715: 'hashSearch': not all control paths return a value
+  HashTables.vcxproj -> E:\Users\Victor\source\repos\HashTables\Debug\HashTables.exe

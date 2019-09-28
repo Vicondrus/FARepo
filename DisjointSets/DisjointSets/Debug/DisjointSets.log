@@ -1,0 +1,8 @@
+﻿  DisjointSets.cpp
+e:\users\victor\source\repos\disjointsets\disjointsets\disjointsets.cpp(212): warning C4474: 'printf' : too many arguments passed for format string
+  e:\users\victor\source\repos\disjointsets\disjointsets\disjointsets.cpp(212): note: placeholders and their parameters expect 2 variadic arguments, but 3 were provided
+e:\users\victor\source\repos\disjointsets\disjointsets\disjointsets.cpp(219): warning C4474: 'printf' : too many arguments passed for format string
+  e:\users\victor\source\repos\disjointsets\disjointsets\disjointsets.cpp(219): note: placeholders and their parameters expect 2 variadic arguments, but 3 were provided
+e:\users\victor\source\repos\disjointsets\disjointsets\disjointsets.cpp(226): warning C4474: 'printf' : too many arguments passed for format string
+  e:\users\victor\source\repos\disjointsets\disjointsets\disjointsets.cpp(226): note: placeholders and their parameters expect 2 variadic arguments, but 3 were provided
+  DisjointSets.vcxproj -> E:\Users\Victor\source\repos\DisjointSets\Debug\DisjointSets.exe
